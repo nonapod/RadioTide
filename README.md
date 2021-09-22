@@ -1,6 +1,6 @@
 # RadioTide
 
-This was an old simple map generation project I dug up from many years ago,
+This was an old simple map generation project I dug up from many years ago (2014),
 originally I intended to create some type of rpg/strategy game, but I never
 continued it. Still the concept and code is quite interesting, so I've left
 it here for now with the intention of maybe having a look at it again in
