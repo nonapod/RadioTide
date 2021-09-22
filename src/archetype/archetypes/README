@@ -1,0 +1,4 @@
+when adding a new archetype, the class must always
+be called SubArchetype, with a class variable 
+archetype, that is the string display name of the
+subarchetype.

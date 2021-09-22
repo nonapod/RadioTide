@@ -1,0 +1,23 @@
+# RadioTide
+
+This was an old simple map generation project I dug up from many years ago,
+originally I intended to create some type of rpg/strategy game, but I never
+continued it. Still the concept and code is quite interesting, so I've left
+it here for now with the intention of maybe having a look at it again in
+future.
+
+To play, simply run the shell file at the root of the project, on a Linux/Unix
+based environment. There are two versions, one shell and one curses, the shell
+allows for more modification of the topography density.
+
+
+Todo
+====
+- create some standard value templates for generating certain things, i.e.
+  more trees, less trees, less water, more water etc...
+- there are multiple iterations of map creation, first is blatting random
+  things down on the map, this does not include path (tracks, roads etc),
+  the second iteration of the map should add paths, find a few spots on
+  the top of the map, then go down to the next row, continue the path
+  occasionally forking off and changing directions, if it encounters
+  another path of the same type, then it will skip and this one will stop.
